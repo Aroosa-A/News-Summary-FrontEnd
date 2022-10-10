@@ -4,6 +4,8 @@ News Summary Challenge
 About the Project:
 ------------
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&background=000000&vCenter=true&multiline=true&width=600&height=100&lines=function+App()+%7B;return()%7B%7D;%7D)](https://git.io/typing-svg)
+
 - This project is a front end project
 - Used Guardian Api to get data
 - This was first front end project in Digital Futures training
