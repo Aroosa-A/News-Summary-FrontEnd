@@ -19,7 +19,6 @@ function App() {
   const getData = async () => {
     try {
       const res = await axios.get(`https://content.guardianapis.com/search?order-by=newest&show-fields=byline%2Cthumbnail%2Cheadline%2CbodyText&api-key=720179ef-f52e-4ac0-80ac-571390bf0f88`);
-      console.log(res.data.response.results);
       setNews(res.data.response.results);
     }
     catch (e) {
